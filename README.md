@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahathi
 - 👀 I’m interested in data, tech, design, and research.
 - 🌱 I’m currently working as a data science intern and I'm learning about big data, ML, and AI.
-- 💞️ I’m currently actively pursuing Fall 2022 internships
+- 💞️ I’m currently actively pursuing Summer 2024 internships
 - 📫 For the fastest response, you can reach me at mahathi.gandhamaneni@mail.utoronto.ca
 
 <!---
