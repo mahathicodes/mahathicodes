@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahathi
+- 👋 Hi, I’m Mahathi, a fourth-year undergrad student at the University of Toronto.
 - 👀 I’m interested in data, tech, design, and research.
 - 🌱 I’m currently working as a data science intern and I'm learning about big data, ML, and AI.
 - 💞️ I’m currently actively pursuing Summer 2024 internships
